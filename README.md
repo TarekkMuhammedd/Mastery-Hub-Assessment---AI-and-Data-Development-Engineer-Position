@@ -85,6 +85,3 @@ Enter the rating, delivery time (minutes), food type, and location. Optional fie
 
 Tarek Muhammad
 
-## License
-
-Specify a license here, or remove this section.
